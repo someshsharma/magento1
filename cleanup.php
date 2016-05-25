@@ -1,5 +1,5 @@
 <?php
-
+echo "testig";
 ## Function to set file permissions to 0644 and folder permissions to 0755
 
 function AllDirChmod( $dir = "./", $dirModes = 0755, $fileModes = 0644 ){
